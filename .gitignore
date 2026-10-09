@@ -31,3 +31,7 @@ public/pagefind
 
 # docker compose
 compose.override.yaml
+#Paths added by Azion CLI
+.edge/
+.vulcan
+.open-next

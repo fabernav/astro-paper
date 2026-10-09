@@ -1,0 +1,68 @@
+{
+  "name": "astro-paper-fabricio-4",
+  "bucket": "astro-paper-fabricio-4",
+  "preset": "astro",
+  "env": "production",
+  "prefix": "20261009183401",
+  "rotate-prefix": true,
+  "not-first-run": true,
+  "function": [],
+  "application": {
+    "id": 1791570378,
+    "name": "astro-paper-fabricio-4"
+  },
+  "domain": {
+    "id": 0,
+    "name": "__DEFAULT__",
+    "domain_name": "",
+    "url": ""
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": null,
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 750112,
+        "name": "Deliver Static Assets and Set Cache Policy",
+        "phase": "request"
+      },
+      {
+        "id": 750113,
+        "name": "Redirect to index.html",
+        "phase": "request"
+      },
+      {
+        "id": 750114,
+        "name": "Redirect to index.html for Subpaths",
+        "phase": "request"
+      }
+    ]
+  },
+  "cache-settings": [
+    {
+      "id": 360033,
+      "name": "astro-paper-fabricio-4"
+    }
+  ],
+  "workloads": {
+    "id": 1791576071,
+    "name": "astro-paper-fabricio-4",
+    "domains": [],
+    "url": "https://qwn29rk5uya.map.azionedge.net",
+    "deployment_id": [
+      {
+        "id": 341468,
+        "name": "astro-paper-fabricio-4"
+      }
+    ]
+  },
+  "connectors": [
+    {
+      "id": 157193,
+      "name": "astro-paper-fabricio-4"
+    }
+  ]
+}
